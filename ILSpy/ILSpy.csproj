@@ -178,6 +178,7 @@
     </Compile>
     <Compile Include="Commands\SimpleCommand.cs" />
     <Compile Include="TreeNodes\Analyzer\AnalyzeContextMenuEntry.cs" />
+    <Compile Include="TreeNodes\Analyzer\AnalyzeContextMenuEntryCopyToClipboard.cs" />
     <Compile Include="TreeNodes\Analyzer\AnalyzedAssemblyTreeNode.cs" />
     <Compile Include="TreeNodes\Analyzer\AnalyzedAttributeAppliedToTreeNode.cs" />
     <Compile Include="TreeNodes\Analyzer\AnalyzedEventOverridesTreeNode.cs" />
